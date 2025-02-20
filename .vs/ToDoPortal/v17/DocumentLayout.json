@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "ToDoPortal\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\ToDoApp\\ToDoPortal\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ToDoPortal\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAB7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-20T09:57:44.409Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "ToDoPortal\\Views\\ToDo\\Add.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T09:39:09.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T09:39:09.012Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "ToDoPortal\\Controllers\\ToDoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T09:37:01.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T09:37:01.725Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "ToDoPortal\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T09:08:32.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T09:08:32.154Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "ToDoPortal\\Models\\Entities\\ToDo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T09:00:10.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T09:00:10.859Z"
             }
           ]
         },
