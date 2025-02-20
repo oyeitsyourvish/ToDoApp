@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToDoPortal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43397115de6e7469c3a8a2ac180ad9bf79a1ea99")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToDoPortal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToDoPortal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
