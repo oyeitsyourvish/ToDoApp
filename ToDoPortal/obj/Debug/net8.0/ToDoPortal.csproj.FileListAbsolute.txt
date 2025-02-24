@@ -151,6 +151,7 @@ D:\ToDoApp\ToDoPortal\obj\Debug\net8.0\ToDoPortal.csproj.CoreCompileInputs.cache
 D:\ToDoApp\ToDoPortal\obj\Debug\net8.0\ToDoPortal.MvcApplicationPartsAssemblyInfo.cache
 D:\ToDoApp\ToDoPortal\obj\Debug\net8.0\ToDoPortal.RazorAssemblyInfo.cache
 D:\ToDoApp\ToDoPortal\obj\Debug\net8.0\ToDoPortal.RazorAssemblyInfo.cs
+D:\ToDoApp\ToDoPortal\obj\Debug\net8.0\ToDoPortal.sourcelink.json
 D:\ToDoApp\ToDoPortal\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\ToDoApp\ToDoPortal\obj\Debug\net8.0\scopedcss\bundle\ToDoPortal.styles.css
 D:\ToDoApp\ToDoPortal\obj\Debug\net8.0\scopedcss\projectbundle\ToDoPortal.bundle.scp.css

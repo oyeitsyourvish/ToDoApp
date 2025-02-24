@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using ToDoPortal.Data;
 using ToDoPortal.Models;
 using ToDoPortal.Models.Entities;
@@ -34,6 +35,13 @@ namespace ToDoPortal.Controllers
 
 
             return View();
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> List()
+        {
+            var noteList = await _dbContext.ToDos.ToListAsync();
+            return View(noteList);
         }
     }
 }
